@@ -19,12 +19,12 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/details/XMLNAME-2022-Technology-Rotational-Development-Program_R523) | Applied |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/5311286002/) | Applied |
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999745330820) | [New Grad - Software Engineer, Infrastructure (Security)](https://jobs.smartrecruiters.com/Wish/743999740036568) - Applied |
-| [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=82675) |  |
-| [Fidelity](https://jobs.fidelity.com/job-details/13162494/2021-2022-undergraduates-full-stack-engineer-merrimack-nh/) | Applied  |
+| [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=82675) | Not intersted |
+| [Fidelity](https://jobs.fidelity.com/job-details/13162494/2021-2022-undergraduates-full-stack-engineer-merrimack-nh/) | Rejected  |
 | [Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) |  |
 | [Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) |  |
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) |  |
-| [Airtable](https://boards.greenhouse.io/airtable/jobs/5311220002?) | Applied |
+| [Airtable](https://boards.greenhouse.io/airtable/jobs/5311220002?) | Rejected |
 | [Grubhub](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job) | [Software Engineer I](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job?mode=submit_apply) - Applied|
 | [Asana](https://boards.greenhouse.io/earlycareerprograms/jobs/3261084) |  |
 | [The Voleon Group](https://jobs.lever.co/voleon/a059b894-b468-4fb1-a86f-36fb63afe3a5) |  |
@@ -123,7 +123,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Discovery](https://jobs.discovery.com/careers-home/jobs/27025?lang=en-us&previousLocale=en-US) |  |
 | [Ebay](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Software-Engineer--Recent-Graduate_R0049006) |  |
 | [Expedia](https://lifeatexpediagroup.com/jobs?keyword=Graduate%20Software%20Development%20Engineer%20I%20-%20August%202022) |  |
-| [Audible](https://www.audiblecareers.com/job/newark/software-development-engineer-i/27552/19666722) |  |
+| [Audible](https://www.audiblecareers.com/job/newark/software-development-engineer-i/27552/19666722) | Applied Oct 30 check on amazon.jobs |
 | [Ocient](https://www.ocient.com/jobs/?gh_jid=4578160003) |  |
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_university) |  |
 | [Amdocs](https://jobs.amdocs.com/job/Plano-Software-Developer-Graduate-TX-75023/793531000/) |  |
