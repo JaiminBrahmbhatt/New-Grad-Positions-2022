@@ -74,7 +74,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Silicon Labs](https://jobs.jobvite.com/silabs/job/odEEgfwv) |  |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1337310) |  |
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) |  |
-| [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) |  |
+| [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | Applied Oct 31 |
 | [Blend](https://boards.greenhouse.io/blend/jobs/4092807004) |  |
 | [Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom/1/refreshFacet/318c8bb6f553100021d223d9780d30be) |  |
 | [Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=5488575002) |  |
@@ -91,7 +91,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) |  |
 | [EAB](https://eab.com/careers/open-positions/) |  |
 | [IXL](https://ie.ixl.com/company/careers) |  |
-| [Visa](https://careers.smartrecruiters.com/Visa/university-recruiting) |  |
+| [Visa](https://careers.smartrecruiters.com/Visa/university-recruiting) | Software Engineer - smartr.me Applied Oct 31 |
 | [Gem](https://www.gem.com/company/careers#jobboard) |  |
 | [Indeed](https://ur-careers-indeed.icims.com/jobs/search?ics_keywords=Grad) |  |
 | [Restaurant Brands International](https://careers.rbi.com/global/en/c/campus-jobs) |  |
