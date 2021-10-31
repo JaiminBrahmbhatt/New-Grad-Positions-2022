@@ -17,7 +17,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Facebook](https://www.facebook.com/careers/jobs/) | [Data Engineer, Analytics](https://www.facebook.com/careers/v2/jobs/995062637966220/) - Applied |
 | [Amazon](https://www.amazon.jobs/en/jobs/1558079/software-development-engineer-2022-us?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | [Software Engineer](https://www.amazonuniversity.jobs/dashboard) Applied |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/details/XMLNAME-2022-Technology-Rotational-Development-Program_R523) | Applied |
-| [Jane Street](https://www.janestreet.com/join-jane-street/position/5311286002/) | Applied |
+| [Jane Street](https://www.janestreet.com/join-jane-street/position/5311286002/) | Rejected |
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999745330820) | [New Grad - Software Engineer, Infrastructure (Security)](https://jobs.smartrecruiters.com/Wish/743999740036568) - Applied |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=82675) | Not intersted |
 | [Fidelity](https://jobs.fidelity.com/job-details/13162494/2021-2022-undergraduates-full-stack-engineer-merrimack-nh/) | Rejected  |
@@ -25,7 +25,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) |  |
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) |  |
 | [Airtable](https://boards.greenhouse.io/airtable/jobs/5311220002?) | Rejected |
-| [Grubhub](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job) | [Software Engineer I](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job?mode=submit_apply) - Applied|
+| [Grubhub](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job) | [Software Engineer I](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job?mode=submit_apply) - Applied Oct 19|
 | [Asana](https://boards.greenhouse.io/earlycareerprograms/jobs/3261084) |  |
 | [The Voleon Group](https://jobs.lever.co/voleon/a059b894-b468-4fb1-a86f-36fb63afe3a5) |  |
 | [SIG](https://careers.sig.com/job/5471/Software-Developer-Campus-2022-Start) | Applied  |
