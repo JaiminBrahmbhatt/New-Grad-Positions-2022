@@ -72,7 +72,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [ElasticSearch](https://jobs.elastic.co/jobs/engineering/distributed-global/graduate-software-engineer/3342699?lang=en_us#/) |  |
 | [Figma](https://jobs.lever.co/figma/54b745d8-29b1-45cd-8109-63213f524929) |  |
 | [Silicon Labs](https://jobs.jobvite.com/silabs/job/odEEgfwv) |  |
-| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1337310) |  |
+| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1337310) | Rejected |
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) |  |
 | [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | Applied Oct 31 |
 | [Blend](https://boards.greenhouse.io/blend/jobs/4092807004) |  |
