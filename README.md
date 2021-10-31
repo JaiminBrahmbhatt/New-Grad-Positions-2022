@@ -15,7 +15,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |---|---|
 | [Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | [Python Dev](https://akunacapital.com/job-details?gh_jid=3170707) - Assesment Deadline Nov 1 |
 | [Facebook](https://www.facebook.com/careers/jobs/) | [Data Engineer, Analytics](https://www.facebook.com/careers/v2/jobs/995062637966220/) - Applied |
-| [Amazon](https://www.amazon.jobs/en/jobs/1558079/software-development-engineer-2022-us?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | [https://www.amazonuniversity.jobs/dashboard](Software Engineer) Applied |
+| [Amazon](https://www.amazon.jobs/en/jobs/1558079/software-development-engineer-2022-us?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | [Software Engineer](https://www.amazonuniversity.jobs/dashboard) Applied |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/details/XMLNAME-2022-Technology-Rotational-Development-Program_R523) | Applied |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/5311286002/) | Applied |
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999745330820) | [New Grad - Software Engineer, Infrastructure (Security)](https://jobs.smartrecruiters.com/Wish/743999740036568) - Applied |
